@@ -3,21 +3,21 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://yanamoss.github.io/goit-js-hw-13/",
+  "homepage": "https://yanamoss.github.io/image-search-example/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-13/",
+    "build": "parcel build src/*.html --public-url /image-search-example/",
     "server": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YanaMoss/goit-js-hw-13"
+    "url": "git+https://github.com/YanaMoss/image-search-example"
   },
   "keywords": [],
   "author": "Yana Sokurenko <yanamoss@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YanaMoss/goit-js-hw-13/issues"
+    "url": "https://github.com/YanaMoss/image-search-example/issues"
   },
   "devDependencies": {
     "json-server": "^0.16.3",
